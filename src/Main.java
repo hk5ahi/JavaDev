@@ -1,6 +1,9 @@
 // Java Basic Syntax Topic
 import java.util.Scanner;
 
+import inventory.InventoryManager;
+import inventory.Product;
+
 public class Main {
     public static void main(String[] args) {
         Scanner scan=new Scanner(System.in);
@@ -56,5 +59,24 @@ public class Main {
 
         s2.Sound();
         // Problem 4
+        Product p=new Product();
+        p.addProducts("Dairy Milk");
+        p.addProducts("Bread");
+        p.addProducts("Airpods");
+        p.updateQuantities("Bread",4);
+        InventoryManager iot=new InventoryManager();
+        iot.getQuantities("Bread");
+        //Problem 5
+        BankAccount a1=new BankAccount(2211);
+        a1.depositMoney(5000);
+        a1.depositMoney(1000);
+        a1.withdrawMoney(500);
+        a1.withdrawMoney(34.4);
+        a1.withdrawMoney(6000);
+        BankAccount a2=new BankAccount(2345);
+        a2.withdrawMoney(5);
+        System.out.printf("The number of bank accounts are:"+ (BankAccount.BankAccounts));
+
+
     }
 }
