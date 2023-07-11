@@ -68,7 +68,7 @@ public class Main {
         iot.getQuantities("Bread");
         //Problem 5
         BankAccount a1=new BankAccount(2211);
-        a1.depositMoney(5000);
+        a1.depositMoney(5040);
         a1.depositMoney(1000);
         a1.withdrawMoney(500);
         a1.withdrawMoney(34.4);
