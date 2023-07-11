@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Constructor/Constructor.iml" filepath="$PROJECT_DIR$/Constructor/Constructor.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaPractise.iml" filepath="$PROJECT_DIR$/JavaPractise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Primitive Data Type/Object Data Type/Object Data Type.iml" filepath="$PROJECT_DIR$/Primitive Data Type/Object Data Type/Object Data Type.iml" />
       <module fileurl="file://$PROJECT_DIR$/Objects and Classes/Objects and Classes.iml" filepath="$PROJECT_DIR$/Objects and Classes/Objects and Classes.iml" />
       <module fileurl="file://$PROJECT_DIR$/Primitive Data Type/Primitive Data Type.iml" filepath="$PROJECT_DIR$/Primitive Data Type/Primitive Data Type.iml" />
     </modules>
