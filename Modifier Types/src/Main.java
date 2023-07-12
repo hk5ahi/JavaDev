@@ -11,7 +11,7 @@ public class Main {
      ThirdClass o3=new ThirdClass();
      OutsideClass o4=new OutsideClass();
 
-     //Problem 2:
+     //Problem 2: Create a class with a method declared as final. Try to override the method in a subclass and observe the compiler error.
         class1 b1=new class1();
         System.out.println(b1.getAge());
     }
