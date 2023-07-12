@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Abstraction/Abstraction.iml" filepath="$PROJECT_DIR$/Abstraction/Abstraction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Class variable/Class variable.iml" filepath="$PROJECT_DIR$/Class variable/Class variable.iml" />
       <module fileurl="file://$PROJECT_DIR$/Constructor/Constructor.iml" filepath="$PROJECT_DIR$/Constructor/Constructor.iml" />
       <module fileurl="file://$PROJECT_DIR$/Date and Time/Date and Time.iml" filepath="$PROJECT_DIR$/Date and Time/Date and Time.iml" />
       <module fileurl="file://$PROJECT_DIR$/Decisionmaking/Decisionmaking.iml" filepath="$PROJECT_DIR$/Decisionmaking/Decisionmaking.iml" />
