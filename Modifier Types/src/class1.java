@@ -9,7 +9,7 @@ public class class1 {
 
     int getAge()
     {
-       this.age=21;
+       //this.age=21;
         return age;
     }
 

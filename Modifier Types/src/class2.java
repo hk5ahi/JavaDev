@@ -1,8 +1,8 @@
 public class class2 extends class1 {
 
-    @Override
+   // @Override
 
-    public final void m1()
+    //public final void m1()
     {
 
 

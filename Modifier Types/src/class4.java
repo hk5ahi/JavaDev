@@ -1,2 +1,2 @@
-public class class4 extends class3 {
-}
+//public class class4 extends class3 {
+//}
